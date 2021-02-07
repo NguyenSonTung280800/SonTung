@@ -25,5 +25,6 @@
 		<div class="thoat"><a href="sp.php"><I>Exit</I></a></div>
 	</form>
     <div>
+    <?php........... ?>
 </body>
 </html>
